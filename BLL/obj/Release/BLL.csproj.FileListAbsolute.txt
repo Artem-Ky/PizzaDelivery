@@ -1,0 +1,166 @@
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\BLL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\BLL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\DAL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\EntityFramework.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\EntityFramework6.Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\System.Buffers.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\System.Memory.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\System.Numerics.Vectors.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\System.Text.Encodings.Web.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\System.Text.Json.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\System.ValueTuple.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\DAL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\DAL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\EntityFramework.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\EntityFramework6.Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\Npgsql.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\System.Buffers.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\System.Memory.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\System.Numerics.Vectors.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\System.Text.Encodings.Web.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\System.Text.Json.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\bin\Release\System.ValueTuple.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\obj\Release\BLL.csproj.CopyComplete
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\obj\Release\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\BLL\obj\Release\BLL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\BLL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\BLL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\DAL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\EntityFramework.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\EntityFramework6.Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\System.Buffers.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\System.Memory.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\System.Numerics.Vectors.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\System.Text.Encodings.Web.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\System.Text.Json.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\System.ValueTuple.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\DAL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\DAL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\EntityFramework.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\EntityFramework6.Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\Npgsql.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\System.Buffers.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\System.Memory.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\System.Numerics.Vectors.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\System.Text.Encodings.Web.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\System.Text.Json.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\bin\Release\System.ValueTuple.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\obj\Release\BLL.csproj.CopyComplete
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\obj\Release\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\BLL\obj\Release\BLL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\BLL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\BLL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\DAL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\EntityFramework.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\EntityFramework6.Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\Serilog.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\Serilog.Sinks.File.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.Buffers.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.Memory.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.Numerics.Vectors.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.Text.Encodings.Web.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.Text.Json.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.ValueTuple.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\DAL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\DAL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\EntityFramework.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\EntityFramework6.Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\Npgsql.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\Serilog.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\Serilog.Sinks.File.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\Serilog.Sinks.File.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.Buffers.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.Diagnostics.DiagnosticSource.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.Memory.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.Numerics.Vectors.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.Text.Encodings.Web.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.Text.Json.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\bin\Release\System.ValueTuple.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\obj\Release\BLL.csproj.CopyComplete
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\obj\Release\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия — копия\BLL\obj\Release\BLL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\BLL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\BLL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\DAL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\EntityFramework.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\EntityFramework6.Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\Serilog.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\Serilog.Sinks.File.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.Buffers.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.Memory.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.Numerics.Vectors.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.Text.Encodings.Web.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.Text.Json.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.ValueTuple.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\DAL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\DAL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\EntityFramework.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\EntityFramework6.Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\Npgsql.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\Serilog.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\Serilog.Sinks.File.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\Serilog.Sinks.File.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.Buffers.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.Diagnostics.DiagnosticSource.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.Memory.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.Numerics.Vectors.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.Text.Encodings.Web.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.Text.Json.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\bin\Release\System.ValueTuple.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\obj\Release\BLL.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\obj\Release\BLL.csproj.CopyComplete
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\obj\Release\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_final\BLL\obj\Release\BLL.pdb

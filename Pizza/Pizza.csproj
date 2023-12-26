@@ -1,0 +1,644 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.0\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E1A7E38D-923C-43FF-9647-0CF0FE8930E7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Pizza</RootNamespace>
+    <AssemblyName>Pizza</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework6.Npgsql, Version=6.4.3.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework6.Npgsql.6.4.3\lib\net461\EntityFramework6.Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=6.3.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.3.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.5.0.0\lib\net461\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Options.5.0.0\lib\net461\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.5.0.0\lib\net461\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject, Version=4.0.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.4.0.0-beta.1\lib\net46\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql, Version=4.1.3.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Npgsql.4.1.3\lib\net461\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="Serilog, Version=2.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10, processorArchitecture=MSIL">
+      <HintPath>..\packages\Serilog.3.1.1\lib\net471\Serilog.dll</HintPath>
+    </Reference>
+    <Reference Include="Serilog.Sinks.File, Version=5.0.0.0, Culture=neutral, PublicKeyToken=24c2f752a8e58a10, processorArchitecture=MSIL">
+      <HintPath>..\packages\Serilog.Sinks.File.5.0.0\lib\net45\Serilog.Sinks.File.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.7.0.2\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=4.0.4.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.4.6.0\lib\netstandard2.0\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.4.6.0\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="ToastNotifications, Version=2.5.1.0, Culture=neutral, PublicKeyToken=e89d9d7314a7c797, processorArchitecture=MSIL">
+      <HintPath>..\packages\ToastNotifications.2.5.1\lib\net40\ToastNotifications.dll</HintPath>
+    </Reference>
+    <Reference Include="ToastNotifications.Messages, Version=2.5.1.0, Culture=neutral, PublicKeyToken=e89d9d7314a7c797, processorArchitecture=MSIL">
+      <HintPath>..\packages\ToastNotifications.Messages.2.5.1\lib\net40\ToastNotifications.Messages.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="MVVM\Util\NinjectServicesSinglton.cs" />
+    <Compile Include="MVVM\ViewModel\ManagerChild\DeliteFormViewModel.cs" />
+    <Compile Include="MVVM\ViewModel\ManagerChild\FormBestWorseReportViewModel.cs" />
+    <Compile Include="MVVM\ViewModel\ManagerChild\FormCRUDIngrViewModel.cs" />
+    <Compile Include="MVVM\ViewModel\ManagerChild\FormTimeReportViewModel.cs" />
+    <Compile Include="MVVM\ViewModel\ManagerChild\ingrCRUDViewModel.cs" />
+    <Compile Include="MVVM\ViewModel\ManagerChild\menuCRUDViewModel.cs" />
+    <Compile Include="MVVM\ViewModel\ManagerChild\FormCRUDMenuViewModel.cs" />
+    <Compile Include="MVVM\ViewModel\ManagerChild\OrderCRUDViewModel.cs" />
+    <Compile Include="MVVM\ViewModel\ManagerChild\reportViewModel.cs" />
+    <Compile Include="MVVM\ViewModel\ManagerChild\SingletonData.cs" />
+    <Compile Include="MVVM\ViewModel\ManagerMain\ManagerMainViewModel.cs" />
+    <Compile Include="MVVM\ViewModel\UserChild\CardData.cs" />
+    <Compile Include="MVVM\ViewModel\UserChild\CustomData.cs" />
+    <Compile Include="MVVM\ViewModel\UserChild\IngrData.cs" />
+    <Compile Include="MVVM\ViewModel\UserChild\MenuData.cs" />
+    <Compile Include="MVVM\ViewModel\UserChild\NumberInputViewModel.cs" />
+    <Compile Include="MVVM\ViewModel\UserMain\MainViewModel.cs" />
+    <Compile Include="MVVM\ViewModel\UserChild\UserCardViewModel.cs" />
+    <Compile Include="MVVM\ViewModel\UserChild\UserConstrView.cs" />
+    <Compile Include="MVVM\ViewModel\UserChild\UserMenuView.cs" />
+    <Compile Include="MVVM\ViewModel\UserChild\UserProfileView.cs" />
+    <Compile Include="MVVM\View\ManagerChild\DeliteForm.xaml.cs">
+      <DependentUpon>DeliteForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\ManagerChild\FormBestWorseReportView.xaml.cs">
+      <DependentUpon>FormBestWorseReportView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\ManagerChild\FormCRUDIngr.xaml.cs">
+      <DependentUpon>FormCRUDIngr.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\ManagerChild\FormCrudMenu.xaml.cs">
+      <DependentUpon>FormCrudMenu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\ManagerChild\FormTimeReportView.xaml.cs">
+      <DependentUpon>FormTimeReportView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\ManagerChild\IngrCRUDView.xaml.cs">
+      <DependentUpon>IngrCRUDView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\ManagerChild\MenuCrudView.xaml.cs">
+      <DependentUpon>MenuCrudView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\ManagerChild\OrderCrudView.xaml.cs">
+      <DependentUpon>OrderCrudView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\ManagerChild\ReportView.xaml.cs">
+      <DependentUpon>ReportView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\UserChild\NumberInputWindow.xaml.cs">
+      <DependentUpon>NumberInputWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\UserChild\UserMenuPage.xaml.cs">
+      <DependentUpon>UserMenuPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\UserMain\mainView.xaml.cs">
+      <DependentUpon>mainView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\ManagerMain\managerMainView.xaml.cs">
+      <DependentUpon>managerMainView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\UserChild\UserCardView.xaml.cs">
+      <DependentUpon>UserCardView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\UserChild\UserConstrView.xaml.cs">
+      <DependentUpon>UserConstrView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\View\UserChild\UserProfileView.xaml.cs">
+      <DependentUpon>UserProfileView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Services\CountToVisibilityConverter.cs" />
+    <Compile Include="Services\CRUDConventer.cs" />
+    <Compile Include="Services\ImagePathToBitmapConverter.cs" />
+    <Compile Include="Services\IngredientsConverter.cs" />
+    <Compile Include="Services\InRangeConverter.cs" />
+    <Compile Include="Services\ListToStringConverter.cs" />
+    <Compile Include="Services\MyDataTemplateSelector.cs" />
+    <Page Include="MVVM\CustomControls\BindablePasswordBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\LoginView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\ManagerChild\DeliteForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\ManagerChild\FormBestWorseReportView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\ManagerChild\FormCRUDIngr.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\ManagerChild\FormCrudMenu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\ManagerChild\FormTimeReportView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\ManagerChild\IngrCRUDView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\ManagerChild\MenuCrudView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\ManagerChild\OrderCrudView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\ManagerChild\ReportView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\UserChild\NumberInputWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\UserChild\UserMenuPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\UserMain\mainView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\ManagerMain\managerMainView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\UserChild\UserCardView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\UserChild\UserConstrView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MVVM\View\UserChild\UserProfileView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Styles\ButtonStyles.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Styles\ImageStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Styles\TextBoxSearchStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Styles\UIColors.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MVVM\CustomControls\BindablePasswordBox.xaml.cs">
+      <DependentUpon>BindablePasswordBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MVVM\Util\NinjectRegistrations.cs" />
+    <Compile Include="MVVM\Util\ReposModule.cs" />
+    <Compile Include="MVVM\ViewModel\LoginViewModel.cs" />
+    <Compile Include="MVVM\Util\RelayComman.cs" />
+    <Compile Include="MVVM\ViewModel\ViewModelBase.cs" />
+    <Compile Include="MVVM\View\LoginView.xaml.cs">
+      <DependentUpon>LoginView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Core\" />
+    <Folder Include="Fonts\" />
+    <Folder Include="Orders\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Login\Background1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="MVVM\View\password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Login\Icons\key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Login\Icons\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{38fc8d9b-8e67-449d-8a56-af3b52397606}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{216134a6-6708-4842-b105-0b9fb2b6e127}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\i.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\const.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\menuLogo.png" />
+    <Resource Include="Images\mainform\profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\mainLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\noCardPhoto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\menu\Peperoni.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\menu\ananas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\menu\HotPeperoni.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Login\Background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\menu\about.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\menu\4chease.jpg" />
+    <Resource Include="Images\mainform\menu\al-colbaso.jpg" />
+    <Resource Include="Images\mainform\menu\cola.jpg" />
+    <Resource Include="Images\mainform\menu\gul%27en.jpg" />
+    <Resource Include="Images\mainform\menu\hot-bird.jpg" />
+    <Resource Include="Images\mainform\menu\mocarella.jpg" />
+    <Resource Include="Images\mainform\menu\mushroom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\btnFilter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\menu\sprite.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\menu\fanta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\ingr\veshenki.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\ingr\lisichki.jpg" />
+    <Resource Include="Images\mainform\ingr\shampin%27oni.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\ingr\mocharella.jpg" />
+    <Resource Include="Images\mainform\ingr\parmezan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\ingr\feta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\ingr\bluechease.jpg" />
+    <Resource Include="Images\mainform\ingr\guada.jpg" />
+    <Resource Include="Images\mainform\ingr\hotpeperoni.jpg" />
+    <Resource Include="Images\mainform\ingr\peperoni.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\ingr\chili.jpg" />
+    <Resource Include="Images\mainform\ingr\xalapen%27o.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\ingr\tomat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\ingr\ananas.jpg" />
+    <Resource Include="Images\mainform\ingr\chiken.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\ingr\bazilik.jpg" />
+    <Resource Include="Images\mainform\ingr\kabachki.jpg" />
+    <Resource Include="Images\mainform\ingr\red-lyk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\ingr\polykopchennaia.jpg" />
+    <Resource Include="Images\mainform\ingr\saliami.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\ingr\kolbaski.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\ingr\ogyrci.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\ingr\maslini.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\ingr\alfredo.jpg" />
+    <Resource Include="Images\mainform\ingr\chezarsoup.jpg" />
+    <Resource Include="Images\mainform\ingr\mushroomsoup.jpg" />
+    <Resource Include="Images\mainform\ingr\salat.jpg" />
+    <Resource Include="Images\mainform\ingr\slivki.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\ingr\1000islands.jpg" />
+    <Resource Include="Images\mainform\ingr\tomatsoup.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\constr.png" />
+    <Resource Include="Images\mainform\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\noCard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\pay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\constr\testo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\constr\desk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\constr\1000islands_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\constr\alfredo_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\constr\tomatsoup_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\constr\chezarsoup_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\constr\mushroomsoup_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\constr\slivki_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\constr\bluechease_1.png" />
+    <Resource Include="Images\mainform\constr\bluechease_2.png" />
+    <Resource Include="Images\mainform\constr\bluechease_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\constr\parmezan_1.png" />
+    <Resource Include="Images\mainform\constr\parmezan_2.png" />
+    <Resource Include="Images\mainform\constr\parmezan_3.png" />
+    <Resource Include="Images\mainform\constr\shampin%27oni_1.png" />
+    <Resource Include="Images\mainform\constr\shampin%27oni_2.png" />
+    <Resource Include="Images\mainform\constr\shampin%27oni_3.png" />
+    <Resource Include="Images\mainform\constr\tomat_1.png" />
+    <Resource Include="Images\mainform\constr\tomat_2.png" />
+    <Resource Include="Images\mainform\constr\tomat_3.png" />
+    <Resource Include="Images\mainform\constr\veshenki_1.png" />
+    <Resource Include="Images\mainform\constr\veshenki_2.png" />
+    <Resource Include="Images\mainform\constr\veshenki_3.png" />
+    <Resource Include="Images\mainform\constr\hotpeperoni_1.png" />
+    <Resource Include="Images\mainform\constr\hotpeperoni_2.png" />
+    <Resource Include="Images\mainform\constr\hotpeperoni_3.png" />
+    <Resource Include="Images\mainform\constr\peperoni_1.png" />
+    <Resource Include="Images\mainform\constr\peperoni_2.png" />
+    <Resource Include="Images\mainform\constr\peperoni_3.png" />
+    <Resource Include="Images\mainform\constr\salat_1.png" />
+    <Resource Include="Images\mainform\constr\salat_2.png" />
+    <Resource Include="Images\mainform\constr\salat_3.png" />
+    <Resource Include="Images\mainform\constr\saliami_1.png" />
+    <Resource Include="Images\mainform\constr\saliami_2.png" />
+    <Resource Include="Images\mainform\constr\saliami_3.png" />
+    <Resource Include="Images\mainform\constr\kolbaski_1.png" />
+    <Resource Include="Images\mainform\constr\kolbaski_2.png" />
+    <Resource Include="Images\mainform\constr\kolbaski_3.png" />
+    <Resource Include="Images\mainform\constr\mocharella_1.png" />
+    <Resource Include="Images\mainform\constr\mocharella_2.png" />
+    <Resource Include="Images\mainform\constr\mocharella_3.png" />
+    <Resource Include="Images\mainform\constr\ogyrci_1.png" />
+    <Resource Include="Images\mainform\constr\ogyrci_2.png" />
+    <Resource Include="Images\mainform\constr\ogyrci_3.png" />
+    <Resource Include="Images\mainform\constr\lisichki_1.png" />
+    <Resource Include="Images\mainform\constr\lisichki_2.png" />
+    <Resource Include="Images\mainform\constr\lisichki_3.png" />
+    <Resource Include="Images\mainform\constr\maslini_1.png" />
+    <Resource Include="Images\mainform\constr\maslini_2.png" />
+    <Resource Include="Images\mainform\constr\maslini_3.png" />
+    <Resource Include="Images\mainform\constr\red-lyk_1.png" />
+    <Resource Include="Images\mainform\constr\red-lyk_2.png" />
+    <Resource Include="Images\mainform\constr\red-lyk_3.png" />
+    <Resource Include="Images\mainform\constr\polykopchennaia_1.png" />
+    <Resource Include="Images\mainform\constr\polykopchennaia_2.png" />
+    <Resource Include="Images\mainform\constr\polykopchennaia_3.png" />
+    <Resource Include="Images\mainform\constr\xalapen%27o_1.png" />
+    <Resource Include="Images\mainform\constr\xalapen%27o_2.png" />
+    <Resource Include="Images\mainform\constr\xalapen%27o_3.png" />
+    <Resource Include="Images\mainform\constr\chili_1.png" />
+    <Resource Include="Images\mainform\constr\chili_2.png" />
+    <Resource Include="Images\mainform\constr\chili_3.png" />
+    <Resource Include="Images\mainform\constr\guada_1.png" />
+    <Resource Include="Images\mainform\constr\guada_2.png" />
+    <Resource Include="Images\mainform\constr\guada_3.png" />
+    <Resource Include="Images\mainform\constr\bazilik_1.png" />
+    <Resource Include="Images\mainform\constr\bazilik_2.png" />
+    <Resource Include="Images\mainform\constr\bazilik_3.png" />
+    <Resource Include="Images\mainform\constr\chiken_1.png" />
+    <Resource Include="Images\mainform\constr\chiken_2.png" />
+    <Resource Include="Images\mainform\constr\chiken_3.png" />
+    <Resource Include="Images\mainform\historyBack.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\historyback2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\constr\ananas_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\constr\ananas_2.png" />
+    <Resource Include="Images\mainform\constr\ananas_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\adddark.png" />
+    <Resource Include="Images\addlight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\deletedark.png" />
+    <Resource Include="Images\deletelight.png" />
+    <Resource Include="Images\editdark.png" />
+    <Resource Include="Images\editlight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\mainform\ingr\about.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Данный проект ссылается на пакеты NuGet, отсутствующие на этом компьютере. Используйте восстановление пакетов NuGet, чтобы скачать их.  Дополнительную информацию см. по адресу: http://go.microsoft.com/fwlink/?LinkID=322105. Отсутствует следующий файл: {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.0\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.0\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.0\build\EntityFramework.targets')" />
+</Project>

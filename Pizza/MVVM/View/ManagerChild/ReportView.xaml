@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="Pizza.MVVM.View.ManagerChild.ReportView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Pizza.MVVM.View.ManagerChild"
+             xmlns:viewModel="clr-namespace:Pizza.MVVM.ViewModel.ManagerChild"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             Background="White">
+    <UserControl.DataContext>
+        <viewModel:reportViewModel/>
+    </UserControl.DataContext>
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock VerticalAlignment="Center" Grid.Column="0" FontFamily="Roboto" FontSize="16" FontWeight="Light" FontStretch="Normal" Text="Дата начала"/>
+            <DatePicker Margin="10,0,0,0" Grid.Column="1" SelectedDate="{Binding DateStart, Mode=TwoWay}" />
+            <TextBlock Margin="10,0,0,0" VerticalAlignment="Center" Grid.Column="2" FontFamily="Roboto" FontSize="16" FontWeight="Light" FontStretch="Normal" Text="Дата конца"/>
+            <DatePicker Margin="10,0,0,0" Grid.Column="3" SelectedDate="{Binding DateEnd, Mode=TwoWay}" />
+            <Button Grid.Column="4" HorizontalAlignment="Center" Content="Отчет о позициях меню" Width="200" Height="30" Command="{Binding bestWorseCommand}" />
+        </Grid>
+        <Grid Grid.Row="1" Margin="0,10,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock VerticalAlignment="Center" Grid.Column="0" FontFamily="Roboto" FontSize="16" FontWeight="Light" FontStretch="Normal" Text="Дата начала"/>
+            <DatePicker Margin="10,0,0,0" Grid.Column="1" SelectedDate="{Binding DateStart2, Mode=TwoWay}" />
+            <TextBlock Margin="10,0,0,0" VerticalAlignment="Center" Grid.Column="2" FontFamily="Roboto" FontSize="16" FontWeight="Light" FontStretch="Normal" Text="Дата конца"/>
+            <DatePicker Margin="10,0,0,0" Grid.Column="3" SelectedDate="{Binding DateEnd2, Mode=TwoWay}" />
+            <Button Grid.Column="4" HorizontalAlignment="Center" Content="Отчет о загруженности по часам" Width="200" Height="30" Command="{Binding timeCommand}" />
+        </Grid>
+    </Grid>
+</UserControl>

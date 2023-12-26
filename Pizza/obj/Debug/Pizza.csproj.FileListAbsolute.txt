@@ -1,0 +1,745 @@
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\View\LoginView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\Pizza_MarkupCompile.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\Pizza_MarkupCompile.lref
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\Pizza.exe.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\View\LoginView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\Pizza.g.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\DAL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\EntityFramework6.Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\Ninject.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\System.Buffers.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\System.Memory.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\System.Text.Encodings.Web.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\System.Text.Json.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\System.ValueTuple.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\DAL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\DAL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\EntityFramework6.Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\Ninject.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\Npgsql.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\System.Buffers.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\System.Memory.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\System.Text.Encodings.Web.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\System.Text.Json.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\System.ValueTuple.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\BLL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\BLL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\Styles\UIColors.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\Styles\ButtonStyles.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\App.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\FontAwesome.Sharp.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\View\UserMain\mainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\View\UserMain\mainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\Pizza.exe.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\DAL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\EntityFramework6.Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\FontAwesome.Sharp.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\Ninject.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\System.Buffers.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\System.Memory.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\System.Text.Encodings.Web.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\System.Text.Json.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\System.ValueTuple.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\BLL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\BLL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\DAL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\DAL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\EntityFramework6.Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\Ninject.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\Npgsql.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\System.Buffers.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\System.Memory.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\System.Text.Encodings.Web.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\System.Text.Json.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\bin\Debug\System.ValueTuple.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\Styles\ButtonStyles.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\Styles\UIColors.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\MVVM\View\LoginView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\MVVM\View\UserMain\mainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\Pizza_MarkupCompile.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\Pizza_MarkupCompile.lref
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\App.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\MVVM\View\LoginView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\MVVM\View\UserMain\mainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\Pizza.g.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия\Pizza\obj\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\Pizza.exe.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\DAL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\EntityFramework6.Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\FontAwesome.Sharp.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\Ninject.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\System.Buffers.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\System.Memory.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\System.Text.Encodings.Web.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\System.Text.Json.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\System.ValueTuple.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\BLL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\BLL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\DAL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\DAL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\EntityFramework6.Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\Ninject.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\Npgsql.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\System.Buffers.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\System.Memory.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\System.Text.Encodings.Web.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\System.Text.Json.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\bin\Debug\System.ValueTuple.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\Styles\ButtonStyles.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\Styles\UIColors.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\MVVM\View\LoginView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\MVVM\View\UserMain\mainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\Pizza_MarkupCompile.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\Pizza_MarkupCompile.lref
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\App.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\MVVM\View\LoginView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\MVVM\View\UserMain\mainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\Pizza.g.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия\Pizza\obj\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\Pizza.exe.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\DAL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\EntityFramework6.Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\FontAwesome.Sharp.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\Ninject.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\System.Buffers.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\System.Memory.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\System.Text.Encodings.Web.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\System.Text.Json.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\System.ValueTuple.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\BLL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\BLL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\DAL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\DAL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\EntityFramework6.Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\Ninject.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\Npgsql.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\System.Buffers.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\System.Memory.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\System.Text.Encodings.Web.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\System.Text.Json.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\bin\Debug\System.ValueTuple.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\Styles\ButtonStyles.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\Styles\UIColors.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\MVVM\View\LoginView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\MVVM\View\UserMain\mainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\Pizza_MarkupCompile.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\Pizza_MarkupCompile.lref
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\App.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\MVVM\View\LoginView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\MVVM\View\UserMain\mainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\Pizza.g.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия\Pizza\obj\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\Pizza.exe.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\DAL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\EntityFramework6.Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\FontAwesome.Sharp.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\Ninject.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\System.Buffers.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\System.Memory.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\System.Text.Encodings.Web.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\System.Text.Json.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\System.ValueTuple.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\BLL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\BLL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\DAL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\DAL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\EntityFramework6.Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\Ninject.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\Npgsql.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\System.Buffers.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\System.Memory.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\System.Text.Encodings.Web.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\System.Text.Json.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\bin\Debug\System.ValueTuple.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\Styles\ButtonStyles.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\Styles\UIColors.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\MVVM\View\LoginView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\MVVM\View\UserMain\mainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\Pizza_MarkupCompile.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\Pizza_MarkupCompile.lref
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\App.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\MVVM\View\LoginView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\MVVM\View\UserMain\mainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\Pizza.g.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2)\Pizza\obj\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\Pizza.exe.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\DAL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\EntityFramework6.Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\FontAwesome.Sharp.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\Ninject.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\System.Buffers.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\System.Memory.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\System.Text.Encodings.Web.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\System.Text.Json.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\System.ValueTuple.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\BLL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\BLL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\DAL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\DAL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\EntityFramework6.Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\Ninject.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\Npgsql.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\System.Buffers.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\System.Memory.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\System.Text.Encodings.Web.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\System.Text.Json.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\bin\Debug\System.ValueTuple.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\Styles\ButtonStyles.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\Styles\UIColors.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\MVVM\View\LoginView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\MVVM\View\UserMain\mainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\Pizza_MarkupCompile.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\Pizza_MarkupCompile.lref
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\App.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\MVVM\View\LoginView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\MVVM\View\UserMain\mainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\Pizza.g.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия — копия — копия — копия (2) — копия\Pizza\obj\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\ToastNotifications.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\bin\Debug\ToastNotifications.Messages.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\View\UserChild\NumberInputWindow.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza\Pizza\obj\Debug\MVVM\View\UserChild\NumberInputWindow.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\Pizza.exe.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\DAL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\EntityFramework6.Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\FontAwesome.Sharp.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\Ninject.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\System.Buffers.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\System.Memory.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\System.Text.Encodings.Web.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\System.Text.Json.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\System.ValueTuple.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\ToastNotifications.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\ToastNotifications.Messages.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\BLL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\BLL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\DAL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\DAL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\EntityFramework6.Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\Ninject.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\Npgsql.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\System.Buffers.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\System.Memory.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\System.Text.Encodings.Web.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\System.Text.Json.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\bin\Debug\System.ValueTuple.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\Styles\ButtonStyles.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\Styles\UIColors.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\View\LoginView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\NumberInputWindow.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\View\UserMain\mainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\Pizza_MarkupCompile.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\Pizza_MarkupCompile.lref
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\App.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\View\LoginView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\NumberInputWindow.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\View\UserMain\mainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\Pizza.g.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza — копия (2)\Pizza\obj\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Pizza.exe.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\DAL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\EntityFramework6.Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\FontAwesome.Sharp.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Ninject.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Serilog.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Serilog.Sinks.File.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.Buffers.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.Memory.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.Text.Encodings.Web.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.Text.Json.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.ValueTuple.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\ToastNotifications.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\ToastNotifications.Messages.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\BLL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\BLL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\DAL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\DAL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\EntityFramework6.Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Ninject.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Npgsql.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Serilog.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Serilog.Sinks.File.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Serilog.Sinks.File.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.Buffers.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.Memory.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.Text.Encodings.Web.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.Text.Json.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\System.ValueTuple.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\Styles\ButtonStyles.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\Styles\UIColors.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\LoginView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\UserChild\NumberInputWindow.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\UserMain\mainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\Pizza_MarkupCompile.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\Pizza_MarkupCompile.lref
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\App.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\LoginView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\UserChild\NumberInputWindow.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\UserMain\mainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\Pizza.g.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\Styles\ImageStyle.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\Styles\TextBoxSearchStyle.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\ManagerChild\OrderCrudView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\ManagerChild\OrderCrudView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\ManagerChild\MenuCrudView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\obj\Debug\MVVM\View\ManagerChild\MenuCrudView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\BouncyCastle.Crypto.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.barcodes.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.bouncy-castle-connector.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.commons.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.forms.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.io.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.kernel.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.layout.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.pdfa.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.sign.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.styledxmlparser.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.svg.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itextsharp.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Microsoft.Extensions.Logging.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Microsoft.Extensions.Options.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Microsoft.Extensions.Primitives.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.barcodes.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.bouncy-castle-connector.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.commons.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.forms.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.io.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.kernel.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.layout.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.pdfa.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.sign.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.styledxmlparser.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itext.svg.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\itextsharp.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Microsoft.Extensions.Logging.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Microsoft.Extensions.Options.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Microsoft.Extensions.Primitives.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m\Pizza\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Pizza.exe.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\BLL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\DAL.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\EntityFramework6.Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\FontAwesome.Sharp.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Microsoft.Extensions.Logging.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Microsoft.Extensions.Options.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Microsoft.Extensions.Primitives.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Ninject.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Npgsql.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Serilog.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Serilog.Sinks.File.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.Buffers.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.Memory.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.Numerics.Vectors.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.Text.Encodings.Web.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.Text.Json.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.ValueTuple.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\ToastNotifications.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\ToastNotifications.Messages.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\BLL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\BLL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\DAL.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\DAL.dll.config
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\EntityFramework6.Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Microsoft.Extensions.Logging.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Microsoft.Extensions.Options.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Microsoft.Extensions.Primitives.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Ninject.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Npgsql.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Npgsql.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Serilog.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Serilog.Sinks.File.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\Serilog.Sinks.File.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.Buffers.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.Memory.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.Numerics.Vectors.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.Text.Encodings.Web.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.Text.Json.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\System.ValueTuple.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\Pizza.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\Styles\ButtonStyles.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\Styles\ImageStyle.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\Styles\TextBoxSearchStyle.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\Styles\UIColors.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\LoginView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\MenuCrudView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\OrderCrudView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\NumberInputWindow.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\UserMain\mainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\Pizza_MarkupCompile.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\Pizza_MarkupCompile.lref
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\App.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\CustomControls\BindablePasswordBox.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\LoginView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\MenuCrudView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\OrderCrudView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\NumberInputWindow.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserMenuPage.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\UserMain\mainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerMain\managerMainView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserCardView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserConstrView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\UserChild\UserProfileView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\Pizza.g.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\Pizza.exe
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\Pizza.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\FormCrudMenu.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\FormCrudMenu.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\DeliteForm.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\DeliteForm.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\IngrCRUDView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\IngrCRUDView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\FormCRUDIngr.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\FormCRUDIngr.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\ReportView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\ReportView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\FormBestWorseReportView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\FormBestWorseReportView.baml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\LiveCharts.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\LiveCharts.Wpf.dll
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\LiveCharts.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\LiveCharts.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\LiveCharts.Wpf.pdb
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\bin\Debug\LiveCharts.Wpf.xml
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\FormTimeReportView.g.cs
+\\Mac\Home\Desktop\cafe_lab_fomina\Pizza_m — копия — копия\Pizza\obj\Debug\MVVM\View\ManagerChild\FormTimeReportView.baml
